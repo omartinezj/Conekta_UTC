@@ -1,0 +1,204 @@
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\ConektaUTC.dll.config
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\ConektaUTC.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\ConektaUTC.pdb
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csc.exe
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csc.exe.config
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csc.rsp
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csi.exe
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csi.exe.config
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csi.rsp
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.AppContext.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Console.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.Compression.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Claims.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.ValueTuple.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\vbc.exe
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\vbc.exe.config
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\vbc.rsp
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\VBCSCompiler.exe
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Antlr3.Runtime.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\conekta.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Newtonsoft.Json.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\nunit.framework.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\RestSharp.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Net.Http.Formatting.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Helpers.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.WebHost.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Mvc.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Optimization.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Razor.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Razor.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\WebGrease.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\conekta.pdb
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\nunit.framework.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\RestSharp.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Newtonsoft.Json.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Net.Http.Formatting.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Helpers.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.WebHost.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Mvc.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Optimization.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Razor.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Razor.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Antlr3.Runtime.pdb
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Http.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Razor.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.csprojAssemblyReference.cache
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.csproj.CoreCompileInputs.cache
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.csproj.CopyComplete
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.dll
+C:\Users\rdominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.pdb
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\ConektaUTC.dll.config
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\ConektaUTC.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\ConektaUTC.pdb
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csc.exe
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csc.exe.config
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csc.rsp
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csi.exe
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csi.exe.config
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\csi.rsp
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.AppContext.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Console.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\vbc.exe
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\vbc.exe.config
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\vbc.rsp
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Antlr3.Runtime.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\conekta.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Newtonsoft.Json.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\nunit.framework.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\RestSharp.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Net.Http.Formatting.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Helpers.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.WebHost.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Mvc.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Optimization.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Razor.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\WebGrease.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\conekta.pdb
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\nunit.framework.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\RestSharp.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Newtonsoft.Json.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Net.Http.Formatting.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Helpers.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Http.WebHost.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Mvc.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Optimization.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.Razor.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Http.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.csproj.AssemblyReference.cache
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.csproj.CopyComplete
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.dll
+C:\Users\Rafael Dominguez\source\repos\ConektaUTC\ConektaUTC\obj\Debug\ConektaUTC.pdb
