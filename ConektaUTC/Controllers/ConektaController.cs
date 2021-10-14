@@ -34,8 +34,6 @@ namespace ConektaUTC.Controllers
 
         public string crearHook() {
 
-
-
             return "";
         }
 
@@ -60,7 +58,6 @@ namespace ConektaUTC.Controllers
         {
             conekta.Api.apiKey = "key_eYvWV7gSDkNYXsmr";
             conekta.Api.version = "2.0.0";
-
             Customer customer = cliente(email,name);
 
               Order order = new conekta.Order().create(@"{

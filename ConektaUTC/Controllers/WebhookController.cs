@@ -21,7 +21,6 @@ namespace ConektaUTC.Controllers
         public ActionResult Index()
         {
             Logs log = new Logs();
-
             Stream req = Request.InputStream;
             req.Seek(0, System.IO.SeekOrigin.Begin);
             string json = new StreamReader(req).ReadToEnd();
@@ -78,14 +77,10 @@ namespace ConektaUTC.Controllers
                 orden.insertarOrden();
                 return Json(new { });
             }
-
             if (type.ToString().Contains("order.paid"))
             {
-
-                var data = obj.SelectToken("data");
-                
+                var data = obj.SelectToken("data");   
                 var objeto = data.SelectToken("object");
-                
                 var objeto2 = objeto.SelectToken("customer_info");
                 log.writeLog("EL CLIENTE QUE PAGO FUE:", objeto2.SelectToken("customer_id"));
                 var customer_id = objeto2.SelectToken("customer_id");
@@ -97,8 +92,6 @@ namespace ConektaUTC.Controllers
                 var charges = objeto.SelectToken("charges");
                 var data2 = charges.SelectToken("data");
                 var payment_method = data2[0].SelectToken("payment_method");
-
-             
                 string customer = consumeApiUrl.requestConekta("https://api.conekta.io/customers/" + customer_id.ToString(), "UTC");
                 orden.compania = "UTC";
                 if (customer.Contains("no ha sido encontrado"))
@@ -107,7 +100,7 @@ namespace ConektaUTC.Controllers
                     customer = consumeApiUrl.requestConekta("https://api.conekta.io/customers/" + customer_id.ToString(), "CETC");
                 }
                 var reference = payment_method.SelectToken("reference");
-                log.writeLog("LA REFERENCIA FUE ", reference);
+                log.writeLog("LA REFERENCIA FUE: ", reference);
                 orden.referencia = reference.ToString();
                 orden.nombre = name.ToString();
                 orden.idCliente = customer_id.ToString();
